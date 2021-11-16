@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20702698616",
+    "project_id": "notify-9f0fb",
+    "storage_bucket": "notify-9f0fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20702698616:android:1732c71669872c6e36a18d",
+        "android_client_info": {
+          "package_name": "com.TusharG.oxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20702698616-bj7s3maaear0j0s3augrmfggb5ckvge9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhX9c944fj1CirhDXx5RG5atix48J_ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20702698616-bj7s3maaear0j0s3augrmfggb5ckvge9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
