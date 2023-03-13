@@ -109,17 +109,20 @@ class VideoState extends State<VideoExample> {
 
           ]),
 
-      floatingActionButton: FloatingActionButton(
-          backgroundColor: Color(0xFF6E260E),
-            onPressed: (){
-                     createVideo();
-                       playerController!.play();
-                      //  _increaseCounter();
+      floatingActionButton: Padding(
+        padding: const EdgeInsets.only(right: 150.0,bottom: 30.0),
+        child: FloatingActionButton(
+            backgroundColor: Color(0xFF6E260E),
+              onPressed: (){
+                       createVideo();
+                         playerController!.play();
+                        //  _increaseCounter();
 
-          },
+            },
 
-           child: const Icon(Icons.play_arrow),
+             child: const Icon(Icons.play_arrow),
 
+        ),
       ),
     );
   }

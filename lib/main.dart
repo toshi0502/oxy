@@ -42,9 +42,9 @@ class MyApp extends StatelessWidget {
 
     return MultiProvider(
         child: const MaterialApp(
-        //  theme: ThemeData(fontFamily: 'Monteserat'),
-          home: BaseApp(),
           debugShowCheckedModeBanner: false,
+          home: BaseApp(),
+
         ),
         providers: [
           ChangeNotifierProvider(create: (_) => NotificationService())

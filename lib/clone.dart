@@ -90,7 +90,7 @@ class _BaseAppState extends State<BaseApp> {
 
 
         floatingActionButton: Padding(
-          padding: const EdgeInsets.only(right: 130.0,bottom: 30.0),
+          padding: const EdgeInsets.only(right: 150.0,bottom: 30.0),
           child: FloatingActionButton(
               backgroundColor: Color(0xFF6E260E),
          //     backgroundColor: Colors.red,

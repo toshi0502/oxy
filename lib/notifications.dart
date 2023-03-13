@@ -26,54 +26,6 @@ class NotificationService extends ChangeNotifier {
     await flutterLocalNotificationsPlugin.initialize(initializationSettings);
   }
 
-  //Instant Notifications
-  // Future instantNofitication() async {
-  //   var android = const AndroidNotificationDetails('id', 'channel');
-  //
-  //   var ios = IOSNotificationDetails();
-  //
-  //   var platform =  NotificationDetails(android: android, iOS: ios);
-  //
-  //   await _flutterLocalNotificationsPlugin.show(
-  //       0, "Demo instant notification", "Tap to do something", platform,
-  //       payload: "Welcome to demo app");
-  // }
-  //
-  // //Image notification
-  // Future imageNotification() async {
-  //   var bigPicture = BigPictureStyleInformation(
-  //       DrawableResourceAndroidBitmap("ic_launcher"),
-  //       largeIcon: DrawableResourceAndroidBitmap("ic_launcher"),
-  //       contentTitle: "Demo image notification",
-  //       summaryText: "This is some text",
-  //       htmlFormatContent: true,
-  //       htmlFormatContentTitle: true);
-  //
-  //   var android = AndroidNotificationDetails("id", "channel", "description",
-  //       styleInformation: bigPicture);
-  //
-  //   var platform = new NotificationDetails(android: android);
-  //
-  //   await _flutterLocalNotificationsPlugin.show(
-  //       0, "Demo Image notification", "Tap to do something", platform,
-  //       payload: "Welcome to demo app");
-  // }
-  //
-  // //Stylish Notification
-  // Future stylishNotification() async {
-  //   var android = AndroidNotificationDetails("id", "channel", "description",
-  //       color: Colors.deepOrange,
-  //       enableLights: true,
-  //       enableVibration: true,
-  //       largeIcon: DrawableResourceAndroidBitmap("ic_launcher"),
-  //       styleInformation: MediaStyleInformation(
-  //           htmlFormatContent: true, htmlFormatTitle: true));
-  //
-  //   var platform = new NotificationDetails(android: android);
-  //
-  //   await _flutterLocalNotificationsPlugin.show(
-  //       0, "Demo Stylish notification", "Tap to do something", platform);
-  // }
 
   //Scheduled Notification
 
