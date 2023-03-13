@@ -1,7 +1,7 @@
-![image (3)](https://user-images.githubusercontent.com/26668360/224684302-2ffcdb65-2f36-45a8-811a-9914b1afe72c.jpg)
-![image (2)](https://user-images.githubusercontent.com/26668360/224684319-169aaafc-9e78-4bde-ae18-4797cc4c3084.jpg)
-![image (1)](https://user-images.githubusercontent.com/26668360/224684323-61fe0b67-672a-4caa-a7df-6492ef5bf51a.jpg)
-![image](https://user-images.githubusercontent.com/26668360/224684329-db7d5b44-51c0-41db-9130-0e1fd30a3f7a.jpg)
+![collage](https://user-images.githubusercontent.com/26668360/224685569-4b9c212b-6a43-4ea4-9e11-625c1b304c05.jpg)
+![noti](https://user-images.githubusercontent.com/26668360/224686136-15585bb0-2eca-4e93-8aab-7e3898db8218.jpg)
+![collage](https://user-images.githubusercontent.com/26668360/224686144-eb933bbf-d023-40d6-8cd2-e3cf1e534bf5.jpg)
+
 # oxy
 
 A new Flutter project.
