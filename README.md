@@ -4,7 +4,8 @@
 
 # oxy
 
-A new Flutter project.
+My App Oxy is Deep Breath reminder mobile application.Its main Functionality is that it gives us reminder in every hour to take a few deep breath by sending notification on our mobile phone.
+Motivation for making this app is few deep breaths can change our enitre day so i hope it find useful for the users.
 
 ## Getting Started
 
